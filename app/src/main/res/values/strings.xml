@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Firebase Anonymous Authentication</string>
+
+    <!--Login Screen Strings-->
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_login">Login As Anonymous User</string>
+    <string name="login_signup">Sign Up</string>
+    <string name="login_logout">Logout</string>
+    <string name="sign_in">Logging in</string>
+    <string name="str_welcome_anonymous_user">Welcome Anonymous User</string>
+    <string name="link_account">Link Account</string>
+    <string name="str_enter_email">Please enter email</string>
+    <string name="facebook_app_id">**Enter your facebook app id**</string>
+    <string name="str_twitter_key">**Enter your twitter key**</string>
+    <string name="str_twitter_secret">**Enter your twitter secret**</string>
+    <string name="str_check_internet">Please check your internet connection</string>
+    <string name="str_enter_valid_email">Please enter valid email</string>
+    <string name="str_enter_password">Please enter password</string>
+    <string name="str_link_success">Account successfully linked.</string>
+    <string name="str_google_play_services_error">Google Play Services error.</string>
+</resources>

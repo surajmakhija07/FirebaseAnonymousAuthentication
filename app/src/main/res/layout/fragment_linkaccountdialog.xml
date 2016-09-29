@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/buttonEmail"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:background="?attr/selectableItemBackground"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_email" />
+
+    <ImageButton
+        android:id="@+id/buttonGoogle"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="20dp"
+        android:background="?attr/selectableItemBackground"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_google" />
+
+    <ImageButton
+        android:id="@+id/buttonFacebook"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="20dp"
+        android:background="?attr/selectableItemBackground"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_facebook" />
+
+</LinearLayout>
